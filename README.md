@@ -1,2 +1,3 @@
 # Modal
-Modal using HTML,CSS,JS
+HI All,
+Developed  a simple Modal using HTML,CSS,JS.
